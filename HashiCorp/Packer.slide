@@ -1,0 +1,26 @@
+How packer was used in media projects
+
+Bill Wang
+DevOps Engineer
+https://github.com/BWITS
+
+* Agenda
+
+- About me
+- Infrastructure as code
+- Cloud service tiers
+- Packer
+- Challenges in media projects
+- Immutable infrastructures
+
+* About me
+
+- DevOps Engineer
+- Cloud solutions for more than 3 years.
+- Skillsets: AWS/Puppet/Ansible/Linux/CI&CD
+- Automation and orchestration
+- Active open source contributor and committer
+
+* What’s Infrastructure as Code?
+
+*Infrastructure as Code* (IaC) is the process of managing and provisioning computing infrastructure (processes, bare-metal servers, virtual servers, etc.) and their configuration through machine-processable definition files, rather than physical hardware configuration or the use of interactive configuration tools.
